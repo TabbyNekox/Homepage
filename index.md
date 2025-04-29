@@ -2,9 +2,7 @@
 layout: default
 ---
 
-# [TabbyNeko]
-
-ようこそ！
+# TabbyNeko
 
 ## 自己紹介
 とらきゃです
