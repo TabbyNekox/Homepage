@@ -11,5 +11,5 @@ layout: default
 * Noah_Game（仮称）
 
 ## 連絡先
-メール: tabbynekox@gmail.com
+メール: tabbynekox@gmail.com  
 Twitter: @New_Tora_Cats (https://twitter.com/New_Tora_Cats)
