@@ -8,8 +8,8 @@ layout: default
 とらきゃです
 
 ## 作品
-*   [Noah_Game（仮称）]
+* Noah_Game（仮称）
 
 ## 連絡先
-メール: [tabbynekox@gmail.com]
-Twitter: [@New_Tora_Cats](https://twitter.com/New_Tora_Cats)
+メール: tabbynekox@gmail.com
+Twitter: @New_Tora_Cats (https://twitter.com/New_Tora_Cats)
