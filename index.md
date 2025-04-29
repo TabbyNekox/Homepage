@@ -5,7 +5,7 @@ layout: default
 # TabbyNeko
 
 ## 自己紹介
-とらきゃです
+とらきゃです。
 
 ## 作品
 * Noah_Game（仮称）
